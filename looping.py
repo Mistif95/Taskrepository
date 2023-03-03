@@ -1,3 +1,4 @@
-# Versi 1.0
+# Versi 1.1
 for i in range(1, 101):
-    print(i)
+    if i % 2 == 1:
+        print(i)
